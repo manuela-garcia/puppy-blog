@@ -1,0 +1,14 @@
+body {
+  /*background-color: #2ed3ad;*/
+  color: white;
+  text-align: center;
+  background-image: url("http://cdn2.sortra.com/wp-content/uploads/2017/04/ryuji-shiba93.jpg");
+}
+em {
+  font-size: 20px;
+  color: pink;
+}
+
+ul {
+  list-style-position: inside;
+}
