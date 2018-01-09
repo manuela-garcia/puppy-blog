@@ -1,9 +1,9 @@
 body {
   /*background-color: #2ed3ad;*/
-  color: white;
+  color: black;
   text-align: center;
-  background-image: url("http://cdn2.sortra.com/wp-content/uploads/2017/04/ryuji-shiba93.jpg");
 }
+
 em {
   font-size: 20px;
   color: hotpink;
@@ -24,4 +24,14 @@ a:visited {
 
 a:hover {
   color: hotpink;
+}
+
+.dark-background {
+  background-color: darkgreen;
+  color: white;
+}
+
+.light-background {
+  background-color: yellow;
+  color: black;
 }
